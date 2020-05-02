@@ -69,7 +69,8 @@ Membuat HTML
 ![Screenshot (13)](https://user-images.githubusercontent.com/46708621/80858226-2bff2500-8c82-11ea-9df5-6beb1a9fcab7.png)
 
 
-[Screenshot (14)](https://user-images.githubusercontent.com/46708621/80858234-4802c680-8c82-11ea-87b1-f087b23f806b.png)
+![Screenshot (14)](https://user-images.githubusercontent.com/46708621/80858320-e3943700-8c82-11ea-9aa6-acb3b2520b24.png)
+
 
 
 ![Screenshot (15)](https://user-images.githubusercontent.com/46708621/80858256-800a0980-8c82-11ea-996f-319f2b703848.png)
