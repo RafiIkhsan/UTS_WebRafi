@@ -47,5 +47,17 @@ Membuat HTML
 ![Screenshot (8)](https://user-images.githubusercontent.com/46708621/80858060-fb6abb80-8c80-11ea-932b-82075c42b076.png)
 
 
+
 ![Screenshot (9)](https://user-images.githubusercontent.com/46708621/80858079-150c0300-8c81-11ea-83c6-2dff87bda665.png)
+
+
+# Membuat CSS
+
+
+![Screenshot (10)](https://user-images.githubusercontent.com/46708621/80858112-5e5c5280-8c81-11ea-8026-70fd42633fd2.png)
+
+
+![Screenshot (11)](https://user-images.githubusercontent.com/46708621/80858128-759b4000-8c81-11ea-9a50-186aa22049b1.png)
+
+
 
