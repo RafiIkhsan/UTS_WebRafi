@@ -60,4 +60,28 @@ Membuat HTML
 ![Screenshot (11)](https://user-images.githubusercontent.com/46708621/80858128-759b4000-8c81-11ea-9a50-186aa22049b1.png)
 
 
+![Screenshot (12)](https://user-images.githubusercontent.com/46708621/80858170-c01cbc80-8c81-11ea-9623-b5eacbe9f8ec.png)
+
+
+# Hasil dari output HTML dan CSS 
+
+
+![Screenshot (13)](https://user-images.githubusercontent.com/46708621/80858226-2bff2500-8c82-11ea-9df5-6beb1a9fcab7.png)
+
+
+[Screenshot (14)](https://user-images.githubusercontent.com/46708621/80858234-4802c680-8c82-11ea-87b1-f087b23f806b.png)
+
+
+![Screenshot (15)](https://user-images.githubusercontent.com/46708621/80858256-800a0980-8c82-11ea-996f-319f2b703848.png)
+
+
+![Screenshot (16)](https://user-images.githubusercontent.com/46708621/80858265-944e0680-8c82-11ea-82cb-289848537888.png)
+
+
+![Screenshot (17)](https://user-images.githubusercontent.com/46708621/80858280-aa5bc700-8c82-11ea-91a8-bcb4dbbabe87.png)
+
+
+
+
+
 
